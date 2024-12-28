@@ -1,0 +1,20 @@
+export enum QUERY_KEYS {
+    "PRODUCTS" = "products",
+    "LATEST_PRODUCTS" = "latest_products",
+    "PRODUCT" = "product",
+    "RATING"  = "rating",
+    "USER" = "user",
+    "SELLERDETAILS" = "sellerDetails",
+    "TOPSELLEDPRODUCTS" = "topSelledProducts",
+    "CART" = "cart",
+    "WISHLIST" = 'wishlist',
+    "WISHLISTCOUNT" = 'wishlistCount',
+    "DASHBOARD" = "dashboard",
+    "ANALYTICS" = "Analytics",
+    "ORDERS" = "orders",
+    "SELLERORDERS" = "sellerOrders",
+    "ADDRESS"= "address",
+    "ADMINPRODUCTS" = "adminProducts",
+    "PRODUCTREVIEW" = "productReview",
+    "PAYMENTWALLET" = "paymentwallet"
+}
